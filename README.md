@@ -6,3 +6,4 @@ O conteúdo ministrado contou com os seguintes temas: </h3>
 • Técnicas para o processamento do Big Data <br>
 • Análise de Dados Utilizando Dashboards <br>
 • Desafio Final <br></h5>
+<h3> Este é um repositório direcionado a demonstrar o portifólio do que foi realizado durante os meses de treinamento.</h3>
